@@ -1,6 +1,6 @@
 # resume
 
-Hello World! I'm HUANGYONGLE! 
+Hello World! I'm HuangYongLe... 
 
 skill:
 JavaScript \
