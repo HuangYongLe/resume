@@ -1,7 +1,8 @@
 # resume
 
-Hello World! I'm HuangYongLe... 
+## Hello World! I'm HuangYongLe... 
 
-skill:
-JavaScript \
+####skill:
+`JavaScript`
+
 
